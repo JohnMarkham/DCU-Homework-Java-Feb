@@ -3,7 +3,7 @@ package homeWorkFeb;
 public class upToNumber {
 	
 	public static void main(String[] args){
-		upToNumber(5);
+		upToNumber(6); 
 	}
 
 	public static void upToNumber(int start) {
