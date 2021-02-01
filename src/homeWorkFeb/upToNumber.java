@@ -7,7 +7,8 @@ public class upToNumber {
 	}
 
 	public static void upToNumber(int start) {
-		// TODO Auto-generated constructor stub
+		// Write a program that has a recursive method called upToNumber that takes an int as
+		// an argument and prints out all numbers from that number down to zero.
 		System.out.println(start);
 		start-=1;
 		if (start < 0)
